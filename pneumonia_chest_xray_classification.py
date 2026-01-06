@@ -223,5 +223,5 @@ print("Confusion Matrix:")
 print(cm)
 
 # Print classification report
-print("Classification Report after applying techniques to handle overfitting:")
+print("Classification Report:")
 print(classification_report(true_labels, predicted_labels))
